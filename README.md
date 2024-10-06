@@ -1,8 +1,6 @@
 # Exploring Image Processing and Text Detection with Python 
-## Introduction:<p>
-    1.Preprocessing:Download an image and apply various preprocessing techniques.<p>
-    2.EAST Text Detection: Use the EAST model to detect text in images.<p>
-    3.Extract and Display Text: Use OCR (Optical Character Recognition) tool Tesseract to extract text from the detected regions. Display the extracted text and the annotated image with bounding boxes.<p>
+## Introduction:
+"text detection.py" evaluates a Python-based text detection system that employs the EAST detection algorithm and Tesseract-OCR for character and word recognition.Meanwhile allowing users to choose the text detection method and apply various preprocessing methods such as noise removal, dilation, erosion, and deskew correction to enhance text recognition accuracy.The primary goal is to offer a user-friendly tool that can effectively detect text regions in images and recognize individual characters or words, with options to visualize the results directly on the images or output them for further use.
 
 ## Technologies Used
 
@@ -21,6 +19,8 @@
 2.Install tesseract
 
     https://digi.bib.uni-mannheim.de/tesseract/
-    
+
+## 
+![report.jpg](report.jpg)  
 
 
