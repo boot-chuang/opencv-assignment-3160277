@@ -20,7 +20,13 @@
 
     https://digi.bib.uni-mannheim.de/tesseract/
 
-## 
+## Original
+![english.jpg](english.jpg)
 ![report.jpg](report.jpg)  
+
+## Results
+![EAST-result.png](EAST-result.png)
+![character-result.png](character-result.png)
+![words-result.png](words-result.png)
 
 
