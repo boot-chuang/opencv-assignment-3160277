@@ -20,7 +20,7 @@
 
     https://digi.bib.uni-mannheim.de/tesseract/
 
-## Original
+## Original Pictrues
 ![english.jpg](english.jpg)
 ![report.jpg](report.jpg)  
 
