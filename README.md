@@ -4,11 +4,10 @@
 
 ## Technologies Used
 
-    1.OpenCV: For image processing tasks such as grayscale conversion, thresholding, and contour detection.
-    2.Requests:A Python HTTP library used for making HTTP requests
-    3.PaddleOCR: A deep learning-based OCR tool used to recognize and extract text from images.
-    4.NumPy: For handling arrays and image data.
-    5.Tesseract-OCR:An open-source OCR engine used for recognizing text in images.
+    1.OpenCV: For image processing tasks such as grayscale conversion, thresholding, and contour detection. 
+    2.PaddleOCR: A deep learning-based OCR tool used to recognize and extract text from images.
+    3.NumPy: For handling arrays and image data.
+    4.Tesseract-OCR:An open-source OCR engine used for recognizing text in images.
 
 ## Installation
 
