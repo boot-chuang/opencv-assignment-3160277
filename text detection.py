@@ -130,7 +130,7 @@ def character_detection(img):
     dim = (width, height)
     resized_img_2 = cv2.resize(preprocessed_image , dim, interpolation=cv2.INTER_AREA)
 
-    cv2.imshow('Original Image',resized_img_2 )
+    cv2.imshow('Character_detection',resized_img_2 )
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
@@ -193,7 +193,7 @@ def word_detection(img):
     dim = (width, height)
     resized_img = cv2.resize(preprocessed_image, dim, interpolation=cv2.INTER_AREA)
 
-    cv2.imshow('Original Image',resized_img)
+    cv2.imshow('Word_detection',resized_img)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
